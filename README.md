@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=${Waving}&color=auto&height=${200}&section=header&text=${DeveloPang}&fontSize=${50}&animation=${twinkling})
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=DeveloPang&fontSize=50&animation=twinkling)
 
 ## 🔍 Back Tech Stack 🔍
 <p align="center">
