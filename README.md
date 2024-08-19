@@ -69,14 +69,17 @@
 
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M00NPANG&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffffa&icon_color=58A6FF&text_color=333&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=M00NPANG&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffffa&icon_color=58A6FF&text_color=333&title_color=58A6FF&count_private=true" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=M00NPANG&theme=react-bright&bg_color=fffffa&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M00NPANG&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffffa&icon_color=58A6FF&text_color=333&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    </a>    
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=M00NPANG&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffffa&icon_color=58A6FF&text_color=333&title_color=58A6FF&count_private=true" width=56% />
+    </a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=M00NPANG&theme=react-bright&bg_color=fffffa&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    </a>
+</div>
+
 
 
