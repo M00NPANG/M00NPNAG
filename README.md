@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white">
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
