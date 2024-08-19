@@ -47,10 +47,12 @@
 </div>
 
 <br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M00NPANG&layout=compact" alt="Top Langs" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M00NPANG&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M00NPANG&layout=compact" alt="Top Langs" />
 </div>
 
 
