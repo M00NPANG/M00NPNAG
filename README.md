@@ -46,4 +46,10 @@
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M00NPANG&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M00NPANG&layout=compact" alt="Top Langs" />
+</div>
+
+
