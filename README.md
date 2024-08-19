@@ -76,7 +76,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=M00NPANG&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffffa&icon_color=58A6FF&text_color=333&title_color=58A6FF&count_private=true" width=56% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=M00NPANG&theme=react-dark&bg_color=fffffa&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=M00NPANG&theme=react-bright&bg_color=fffffa&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
 
