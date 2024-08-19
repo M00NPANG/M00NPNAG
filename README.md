@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=DeveloPang&fontSize=50&animation=twinkling)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=DeveloPang&fontSize=50&animation=twinkling" alt="header">
+</div>
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
